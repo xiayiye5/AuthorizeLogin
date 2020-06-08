@@ -1,0 +1,2 @@
+include ':app', /*':appb', */':jifengshijie'
+rootProject.name='Authority'
